@@ -1,0 +1,27 @@
+This is a fork of easy-globalize2-accessors, but it is compatible with rails3/globalize3, is a gem and has few great advantages...
+
+1- The method does not take any variables yet, it will pick up all available locales and all translatable fields and add translation methoids to them (i.e name_fr, name_en , description_fr_CA, description_en_US)
+
+2-it is a gem and compatible with Rails3 and Globalize3
+
+
+Prerequisites :
+
+-	Globalize3
+-	Rails3
+- ruby 1.9.2 (not tested with earlier version)
+
+
+TODO:
+
+- add more customization
+- do more testing
+- add test scripts
+
+Please consider that the code is not yet published and may contain bugs... then take the code as is.
+
+If you see any bugs, things that can embellish the gem and make it complete or anything , please let me know.
+
+cheers
+
+eagleyes
